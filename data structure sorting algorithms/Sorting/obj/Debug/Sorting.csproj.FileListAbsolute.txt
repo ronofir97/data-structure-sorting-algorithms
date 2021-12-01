@@ -1,0 +1,18 @@
+C:\Users\97252\Downloads\after\Sorting\bin\Debug\Sorting.dll
+C:\Users\97252\Downloads\after\Sorting\bin\Debug\Sorting.pdb
+C:\Users\97252\Downloads\after\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\97252\Downloads\after\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\97252\Downloads\after\Sorting\obj\Debug\Sorting.dll
+C:\Users\97252\Downloads\after\Sorting\obj\Debug\Sorting.pdb
+C:\Users\97252\source\repos\MatalatReshut_203426895_315995738\Sorting\bin\Debug\Sorting.dll
+C:\Users\97252\source\repos\MatalatReshut_203426895_315995738\Sorting\bin\Debug\Sorting.pdb
+C:\Users\97252\source\repos\MatalatReshut_203426895_315995738\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\97252\source\repos\MatalatReshut_203426895_315995738\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\MatalatReshut_203426895_315995738\Sorting\obj\Debug\Sorting.dll
+C:\Users\97252\source\repos\MatalatReshut_203426895_315995738\Sorting\obj\Debug\Sorting.pdb
+C:\Users\97252\source\repos\מטלת- יעילות אלגוריתמים-מבני נתונים\Sorting\bin\Debug\Sorting.dll
+C:\Users\97252\source\repos\מטלת- יעילות אלגוריתמים-מבני נתונים\Sorting\bin\Debug\Sorting.pdb
+C:\Users\97252\source\repos\מטלת- יעילות אלגוריתמים-מבני נתונים\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\97252\source\repos\מטלת- יעילות אלגוריתמים-מבני נתונים\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\מטלת- יעילות אלגוריתמים-מבני נתונים\Sorting\obj\Debug\Sorting.dll
+C:\Users\97252\source\repos\מטלת- יעילות אלגוריתמים-מבני נתונים\Sorting\obj\Debug\Sorting.pdb
